@@ -2,17 +2,25 @@
 
 ###
 
+<img align="right" height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+
+###
+
 <p align="left">- My name is Juliana!<br>- I'm 17 years old <br>- I am a beginner, but I am striving to learn more every day.</p>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianaOAguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaOAguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JulianaOAguilar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianaOAguilar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/JulianaOAguilar/JulianaOAguilar/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/14/29/12/142912c398ac9faa12da282c16b4bd2f.jpg"  />
+</div>
 
 ###
