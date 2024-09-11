@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">- My name is Juliana!<br>- I'm 17 years old <br>- I am a beginner, but I am striving to <br>  learn more every day.</h5>
+<p align="left">- My name is Juliana!<br>- I'm 17 years old <br>- I am a beginner, but I am striving to <br>  learn more every day.</p>
 
 ###
 
