@@ -2,18 +2,10 @@
 ## 🐇 About Me 
   <img align="right" height="100" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"  />
 <p align="left"> - My name is Juliana! 💫 <br>
-  - I am 17 years old 💫<br>- A woman fascinated by technology! 🎀<br>- I'm a beginner, but I'm always striving to learn more every day! 🎀</p>
+  - I am 18 years old 💫<br>- A PwD woman fascinated by technology! 🎀<br>- I'm a beginner, but I'm always striving to learn more every day! 🎀 <br>-
+studying systems analysis and development - 1 semester 🚀 </p> 
 
 
-
-## 🍓 GitHub Status
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianaOAguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JulianaOAguilar&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ## 🍬 Languages and tools
 <div align="center">
