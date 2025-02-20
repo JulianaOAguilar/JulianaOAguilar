@@ -3,8 +3,7 @@
   <img width="12" />
   <img align="right" height="100" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"  />
 <p align="left"> - My name is Juliana! 💫 <br>
-  - I am 18 years old 💫<br>- A PwD woman fascinated by technology! 🎀<br>- I'm a beginner, but I'm always striving to learn more every day! 🎀 <br>-
-studying systems analysis and development - 1 semester 🚀 </p> 
+  - I am 18 years old 💫<br>- A PwD woman fascinated by technology! 🎀 </p> 
 
 
 
