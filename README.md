@@ -1,11 +1,8 @@
 
 ## 🐇 About Me  ##
-  <img width="12" />
   <img align="right" height="100" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"  />
 <p align="left"> - My name is Juliana! 💫 <br>
   - I am 18 years old 💫<br>- A PwD woman fascinated by technology! 🎀 </p> 
-
-
 
 ## 🍬 Languages and tools
 <div align="center">
