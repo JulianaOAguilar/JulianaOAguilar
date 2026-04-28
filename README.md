@@ -1,14 +1,17 @@
 
-## 🐇 About Me  ##
-<img align="right" height="100" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"  />
+## 🌿 About Me  ##
+
+<img align="right" height="100" alt="image" src="https://cdn.dribbble.com/users/96196/screenshots/14361000/media/fa3e21b64a85762051e20993fb99fb18.gif?resize=400x0" />
 <p align="left">- A PwD woman fascinated by technology! <br>- Focused on web development with Angular and Spring</p> 
 
-## 🍬 Languages and tools
+## 🐞 Languages and tools
 <div align="center">
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaOAguilar&theme=bear&count_private=false&layout=compact&hide_title=true&" alt="GitHub Stats" align="left">
 </div>
+
+
 
 
 <div align="center">
