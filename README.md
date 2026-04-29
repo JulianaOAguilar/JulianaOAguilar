@@ -12,8 +12,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=julianaoaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180"/>
-    </td>
+      <img src="https://github-readme-stats.vercel.app/api?username=julianaoaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180"/>  
+      
+      I Love coding  ⸜(｡˃ ᵕ ˂ )⸝♡
+   </td>
     <td>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +31,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-    I Love coding  ⸜(｡˃ ᵕ ˂ )⸝♡
+
   </tr>
 </table>
 
